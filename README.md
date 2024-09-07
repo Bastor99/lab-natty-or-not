@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 💽 Rebeca Mixtape(Álbum feito inteiramente por IA) 💽
 
-## 🚀 Introdução
+## 🎵 Descrição
+Receba Mixtape é um álbum feito inteiramente por IA, desde a melodia de suas músicas até a letra. A ideia surgiu após analisar outros projetos que utlizavam a IA e perceber que poucos usavam a sua capacidade de criar músicas. Desde então, venho experimento essas ferramentas e como elas podem "enganar" os ouvidos humanos.
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🎵 Ferramentas Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+#### Suno AI: 
+- A principal IA utilizada foi a [Suno AI](https://suno.com/), voltada totalmente para criação de músicas. Por meio dela, foi possível criar as letras e as melodias totalmente do zero.
 
-### Objetivos
+#### Leonardo AI:
+- [Leonardo AI](https://leonardo.ai/) é uma inteligência artificial focada no desenvolvimento de imagens de diversos tipos e níveis de realismo. Foi usada para criar a capa do álbum.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+#### CapCut:
+- CapCut foi utilizada para edição do vídeo.
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 🎶 Processo de Criação
+Inicialmente fui experimentando o **Suno**, criando músicas com prompts simples até se adaptar a ferramenta. Após isso, tive a ideia de criar um álbum usando somente essa IA. Após tomar essa decisão, fiquei mais focado em criar músicas que fizessem sentido entre si, para isso usei a função de criar uma nova música utilizando outra já criada como base. 
 
-## 📒 Descrição
-Breve descrição do seu projeto
+No início tive certas dificuldades em manipular a IA para obter o resultado que eu esperava, muitas vezes as entradas que eu fazia não eram suficientes para a ferramente entender que tipo de música eu pretendia criar. Para isso, fui pesquisando músicas dentro da própria plataforma e estudando seus prompts.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Após finalizar todas as músicas, parti para o CapCut e comecei a editar o vídeo. Algo que acabou sendo a parte mais fácil do projeto, graças a simplicidade da ferramenta.  
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 🎼 Resultados
+Postei o álbum completo no YouTube, [clique aqui](https://youtu.be/REQq8h-3-QI?si=fA3jmzFglTUVYAeU) e ouça agora!
